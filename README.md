@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Specialist | Offensive Security | Defensive Engineering | Cloud Security</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9XgHH0LjvNIk/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1c2JsdHh4anBqODhvcnRidzhpcWFqYTEzc2hlYWprczBhMTBrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ✅ Esports Management – The What and How of Esports Management (HP & edX) – May 2025  
 ✅ CompTIA Security+ (Expected Dec 2024)  
 
-**Oracle Cloud & AI Certifications:**  
+Oracle Cloud & AI Certifications:  
 ✅ Oracle Cloud Infrastructure (OCI) Foundations Associate – 2025  
 ✅ Oracle Data Platform Foundations Associate – 2025  
 ✅ Oracle AI Foundations Associate – 2025  
@@ -56,9 +56,9 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **Cybercrime Investigation** | Built a fictional digital crime scene to simulate a murder investigation using forensic tools and techniques. Collected and analyzed digital evidence (malware, logs, device data) to identify the attacker. Full scenario and report published on a custom website. | Splunk, FTK, Autopsy, ELK Stack |
-| **Enterprise Security Lab Setup (AD + Splunk + Onion Security)** | Created a virtual enterprise network with Active Directory, deployed Splunk for real-time monitoring, and integrated Onion Security tools for enhanced threat detection and event correlation. | Windows Server, Splunk, Onion Security Tools |
-| **Onion Security & SIEM Environment** | Built a full Onion Security environment integrated with Splunk for realistic SOC lab scenarios, including log collection, event correlation, and incident response testing. | Onion Tools, Splunk, Sysmon |
+| **XRecon** | Recon automation framework for web targets | Bash, Nmap, Sublist3r, WhatWeb |
+| **AWSGuard** | S3 Bucket policy analyzer for misconfigurations | Python, Boto3 |
+| **LogHunter** | SIEM log parser to detect anomalies | Python, ELK Stack |
 
 ---
 
@@ -74,10 +74,10 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/mohammedsecure"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohammedsecure"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohammed.secure@outlook.sa"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://www.mhexploit.com"><img src="https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/MohammedError"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.mhexploit.com"><img src="https://img.shields.io/badge/-Website-14aaf5?style=flat&logo=Google-Chrome&logoColor=white" /></a>
 </p>
 
 ---

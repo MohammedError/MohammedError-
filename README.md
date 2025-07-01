@@ -1,40 +1,43 @@
-```markdown
-<h2>👋 Hey there, I’m Mohammed Ali Salim Al‑Oufi</h2>
-<p><em>2025 Cybersecurity Graduate | Technical Support Diploma | AI & Security Enthusiast</em></p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey there, I'm Mohammed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
-<img align="right" src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="230"/>
 
-[![LinkedIn](https://img.shields.io/badge/-Mohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-gray?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://your-site.com)](https://your-site.com)
+<p><em>Cybersecurity Specialist 🔐 | Passionate about protecting digital systems, networks, and data from threats and vulnerabilities.</em></p>
 
 ---
 
-### 🔐 About Me
-- 🎓 **BSc in Cybersecurity ‘25** & Diploma in Technical Support  
-- 🛡️ Certified in Web & Cloud Pentesting  
-- 🤖 Completed Oracle AI Foundations & Udemy Generative AI Bootcamp  
-- 🕵️ Built practical digital forensics workflows & AI models from scratch  
-- 💻 Fluent in Python • PowerShell • Splunk • Wireshark • Bash scripting  
-- 📚 Sci‑fi fan | ⚽ Football lover | ☕ Coffee‑driven innovator
+### 👨‍💻 About Me:
+
+- 🛡️ I'm a **Cybersecurity Professional** with a focus on threat detection, vulnerability management, and secure architecture.
+- 📍 Currently contributing and growing within **The GateHub**, collaborating on innovative security-driven projects.
+- 🔍 I love breaking things to understand them — then building them stronger and safer.
+- 🌐 Always exploring the latest in cybersecurity trends, red/blue teaming, and ethical hacking.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">  
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Splunk-052257?style=flat-square&logo=splunk&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Wireshark-1B63A1?style=flat-square&logo=wireshark&logoColor=white" />  
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />  
-</p>
+### 🧰 Tech & Tools I Use:
+
+- **Languages:** Python, Bash, PowerShell
+- **Cyber Tools:** Wireshark, Burp Suite, Nmap, Metasploit, OWASP ZAP, Nessus
+- **Cloud Security:** AWS Security Hub, IAM, S3 Bucket Policies, GuardDuty
+- **Monitoring & Response:** SIEM (Splunk, ELK), IDS/IPS, SOAR platforms
+- **Operating Systems:** Kali Linux, Parrot OS, Windows Server, Ubuntu
 
 ---
 
-### 📫 Let’s Connect
-- 📧 mohammad.aloufi@example.com  
-- 📱 +966590250388  
-- 🐦 [@your_twitter](https://twitter.com/your_twitter)
+### 📫 Connect With Me:
 
-> “Curiosity fuels innovation—let’s build a safer, smarter future!”
-```
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-HERE)
+
+---
+
+### 🧠 Fun Fact:
+
+<em>"I sleep better when the network is secure 😎 — Coffee + Logs = My favorite combo."</em>
+
+---
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats could go here if you set it up -->
+<!--END_SECTION:waka-->

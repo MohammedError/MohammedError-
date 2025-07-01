@@ -1,5 +1,4 @@
-```markdown
-<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Mohammed Ali Salim Al‑Oufi</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Mohammed</span></h1>
 <h3 align="center">Cybersecurity Specialist | Offensive Security | Defensive Engineering | Cloud Security</h3>
 
 <p align="center">
@@ -12,9 +11,9 @@
 
 🔐 I'm a cybersecurity specialist passionate about building secure systems, breaking weak ones, and constantly learning how to stay ahead of the curve in a world full of threats.
 
-💼 Currently strengthening my skills through projects in penetration testing, forensics, and AI-powered security tools.
+💼 Currently developing my skills and working on real-world security projects at **The GateHub**, where innovation meets cybersecurity.
 
-🎯 My expertise includes:
+🎯 My focus is:
 - Penetration Testing (Web, Network, API)
 - Threat Hunting & Incident Response
 - Vulnerability Assessment & Risk Management
@@ -40,28 +39,28 @@
 
 ### 📜 Certifications
 
-- ✅ CEH - Certified Ethical Hacker (In Progress)
-- ✅ CompTIA Security+
-- ✅ TryHackMe Offensive Pentesting Badge
-- ✅ Hack The Box - Tier: **[Your Rank]**
+- ✅ [CEH - Certified Ethical Hacker](#) *(In Progress / Completed)*
+- ✅ [CompTIA Security+](#)
+- ✅ [TryHackMe - Offensive Pentesting Badge](#)
+- ✅ [Hack The Box - Tier: [Insert Rank]](#)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project    | Description                                          | Tools                                    |
-|------------|------------------------------------------------------|------------------------------------------|
-| **XRecon** | Recon automation framework for web targets           | Bash, Nmap, Sublist3r, WhatWeb           |
-| **AWSGuard** | S3 Bucket policy analyzer for misconfigurations     | Python, Boto3                            |
-| **LogHunter**| SIEM log parser to detect anomalies                  | Python, ELK Stack                        |
+| Project | Description | Tools |
+|--------|-------------|-------|
+| **XRecon** | Recon automation framework for web targets | Bash, Nmap, Sublist3r, WhatWeb |
+| **AWSGuard** | S3 Bucket policy analyzer for misconfigurations | Python, Boto3 |
+| **LogHunter** | SIEM log parser to detect anomalies | Python, ELK Stack |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="430"/>
 </p>
 
 ---
@@ -69,14 +68,14 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohammed.aloufi@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINK-HERE"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR-GITHUB-HERE"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💡 Fun Fact
 > "Cybersecurity is not a product, it’s a process — and I enjoy every part of it 🔍☕️"
-```
+
 

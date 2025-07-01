@@ -39,22 +39,16 @@
 
 ### 📜 Certifications
 
-✅ eWPTv2 – Certified Web Penetration Tester v2 (INE) – March 2025
+✅ eWPTv2 – Certified Web Penetration Tester v2 (INE) – March 2025  
+✅ INE Certified Cloud Associate – April 2025  
+✅ CDFP – Certified Digital Forensics Professional – January 2025  
+✅ Esports Management – The What and How of Esports Management (HP & edX) – May 2025  
+✅ CompTIA Security+ (Expected Dec 2024)  
 
-✅ INE Certified Cloud Associate – April 2025
-
-✅ CDFP – Certified Digital Forensics Professional – January 2025
-
-✅ Esports Management – The What and How of Esports Management (HP & edX) – May 2025
-
-✅ CompTIA Security+ (Expected Dec 2024)
-
-Oracle Cloud & AI Certifications:
-✅ Oracle Cloud Infrastructure (OCI) Foundations Associate – 2025
-
-✅ Oracle Data Platform Foundations Associate – 2025
-
-✅ Oracle AI Foundations Associate – 2025
+**Oracle Cloud & AI Certifications:**  
+✅ Oracle Cloud Infrastructure (OCI) Foundations Associate – 2025  
+✅ Oracle Data Platform Foundations Associate – 2025  
+✅ Oracle AI Foundations Associate – 2025  
 
 ---
 
@@ -62,9 +56,9 @@ Oracle Cloud & AI Certifications:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **XRecon** | Recon automation framework for web targets | Bash, Nmap, Sublist3r, WhatWeb |
-| **AWSGuard** | S3 Bucket policy analyzer for misconfigurations | Python, Boto3 |
-| **LogHunter** | SIEM log parser to detect anomalies | Python, ELK Stack |
+| **Cybercrime Investigation** | Built a simulated digital crime scene to solve a fictional murder case. Used forensic tools and analysis techniques to collect, analyze, and correlate digital evidence. Published the full investigation report on my website. | Digital Forensics Tools, Splunk, SIEM, OSINT |
+| **Enterprise Security Lab** | Designed and built a virtual enterprise network with Active Directory integration. Deployed Splunk for real-time log monitoring and threat detection. Simulated real SOC scenarios for training and testing. | Active Directory, Splunk, Windows Server, Sysmon |
+| **Onion Security SOC Environment** | Created a SOC environment integrating Onion Security tools for advanced threat detection and event correlation. Focused on incident response, log analysis, and automation of monitoring workflows. | Onion Security, Splunk, PowerShell, Bash |
 
 ---
 
@@ -89,5 +83,3 @@ Oracle Cloud & AI Certifications:
 
 ### 💡 Fun Fact
 > "Cybersecurity is not a product, it’s a process — and I enjoy every part of it 🔍☕️"
-
-

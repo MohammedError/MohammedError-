@@ -39,10 +39,22 @@
 
 ### 📜 Certifications
 
-- ✅ [CEH - Certified Ethical Hacker](#) *(In Progress / Completed)*
-- ✅ [CompTIA Security+](#)
-- ✅ [TryHackMe - Offensive Pentesting Badge](#)
-- ✅ [Hack The Box - Tier: [Insert Rank]](#)
+✅ eWPTv2 – Certified Web Penetration Tester v2 (INE) – March 2025
+
+✅ INE Certified Cloud Associate – April 2025
+
+✅ CDFP – Certified Digital Forensics Professional – January 2025
+
+✅ Esports Management – The What and How of Esports Management (HP & edX) – May 2025
+
+✅ CompTIA Security+ (Expected Dec 2024)
+
+Oracle Cloud & AI Certifications:
+✅ Oracle Cloud Infrastructure (OCI) Foundations Associate – 2025
+
+✅ Oracle Data Platform Foundations Associate – 2025
+
+✅ Oracle AI Foundations Associate – 2025
 
 ---
 

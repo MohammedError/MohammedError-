@@ -90,14 +90,16 @@ motto      : "Break it to secure it. 🔐"
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedError&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedError&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedError&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedError&theme=tokyonight&hide_border=true" height="160"/>
-</div>div>
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedError&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>div>
+</div>
 
 ---
 
@@ -119,9 +121,9 @@ motto      : "Break it to secure it. 🔐"
 <div align="center">
 
 > *"Cybersecurity is not a product, it's a process — and I enjoy every part of it."* 🔍☕
->
-> </div>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:007acc,100:0d1117&height=120&section=footer" width="100%"/>
-</div>div>
+</div>
